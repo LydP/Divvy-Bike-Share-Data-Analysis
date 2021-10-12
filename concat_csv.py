@@ -1,7 +1,11 @@
+"""concat_csv.py: concatenate the separate CSV files containing the Divvy trip data into a single CSV file and add
+columns containing ride duration the day of the week on which the ride occurred"""
+
 import glob
 import pandas as pd
 
-raw_csv = glob.glob(r'raw_copy\*.csv')
+# raw_data contains the raw data from Divvy System Data
+raw_csv = glob.glob(r'raw_data\*.csv')
 
 csv_list = []
 for csv in raw_csv:
@@ -16,4 +20,5 @@ for csv in raw_csv:
     csv_list.append(csv_input)
 
 csv_df = pd.concat(csv_list)
-csv_df.to_csv(r'raw_copy\divvy-tripdata-full.csv')
+csv_df.to_csv(r'raw_data\divvy-tripdata-full.csv')
+print('DONE')
