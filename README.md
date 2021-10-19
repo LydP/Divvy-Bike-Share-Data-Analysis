@@ -48,6 +48,10 @@ I used this code to combine the above files into a single CSV. This code also ad
 
 This file contains the class and corresponding methods that I used to generate the charts in the Plots folder. Note that this file requires the file divvy_trip_data_full.csv located in the raw_data directory (the result of running concat_csv.py) 
 
+### Plots Folder
+
+This folder contains JPG images of the plots produced by plots.py. It also contains the image Start Location Heat Map.png, which is a heat map made in Tableau Public of the start locations for each trip for August 2021. (The divvy_trip_data_full.csv file was too large for a Tableau Public upload). The workbook can be accessed [here](https://public.tableau.com/views/divvy_16346070460150/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
 ### Other Files
 
 I also loaded the data from divvy_trip_data_full.csv in a DB file so that I could browse it with SQLite. That file is [here](https://drive.google.com/file/d/1Nn8WDTX3wdeC5t9U3C87L7aoOVVNVtlT/view?usp=sharing). 
