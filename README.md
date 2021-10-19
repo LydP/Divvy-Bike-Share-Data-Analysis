@@ -28,13 +28,13 @@ Raw data and data other than what I used can be accessed [here](https://divvy-tr
 202108-divvy-tripdata.zip
 ```
 
-These can accessed directly [here](https://drive.google.com/file/d/1Nn8WDTX3wdeC5t9U3C87L7aoOVVNVtlT/view?usp=sharing). They are subject to [Divvy's Data License Agreement](https://www.divvybikes.com/data-license-agreement). 
+These can be accessed directly [here](https://drive.google.com/file/d/1Nn8WDTX3wdeC5t9U3C87L7aoOVVNVtlT/view?usp=sharing). They are subject to [Divvy's Data License Agreement](https://www.divvybikes.com/data-license-agreement). 
 
-## Files
+## Files and Folders
 
 ### Divvy_Trip_Data_Analysis.ipynb
 
-This is the Google Colaboratory notebook that describes my analysis in more detail.
+This is the Google Colaboratory notebook that describes my analysis and the data in more detail.
 
 ### Divvy_presentation.pptx
 
