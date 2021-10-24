@@ -40,6 +40,10 @@ This is the Google Colaboratory notebook that describes my analysis and the data
 
 This is the PowerPoint file containing the most pertinent points of my analysis and my conclusions and suggestions.
 
+### Divvy_report.pdf
+
+This is my analysis and conclusions presented in the form of a report. It's essentially a simplified version of the content in Divvy_Trip_Data_Analysis.ipynb.
+
 ### concat_csv.py
 
 I used this code to combine the above files into a single CSV. This code also adds the columns ```ride_length``` and ```day_of_week``` to each CSV file and therefore to the final, concatenated file. Note that this file requires the folder raw_data containing the CSV files in order to work.
