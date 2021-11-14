@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This is my analysis of Divvy trip data for the Google Data Analytics certificate capstone project. My certificate can be seen [here](https://www.credly.com/badges/6e51f2de-b45a-4e2e-bff1-3da04eff93de). This repository contains the Python files I used to work with the data, a Google Colaboratory notebook that gives more detail on my thought process and conclusions alongside Python code, my analysis and conclusions in a PowerPoint, and my analysis and conclusions in a PDF report. 
+This is my analysis of Divvy trip data for the Google Data Analytics certificate capstone project. My certificate can be seen [here](https://www.credly.com/badges/6e51f2de-b45a-4e2e-bff1-3da04eff93de). This repository contains the Python files I used to work with the data, a Google Colaboratory notebook that gives more detail on my thought process and conclusions alongside Python code, and my analysis and conclusions in a PDF report. 
 
 ## Data
 
