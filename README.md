@@ -36,10 +36,6 @@ These can be accessed directly [here](https://drive.google.com/file/d/1Nn8WDTX3w
 
 This is the Google Colaboratory notebook that describes my analysis and the data in more detail.
 
-### Divvy_presentation.pptx
-
-This is the PowerPoint file containing the most pertinent points of my analysis and my conclusions and suggestions.
-
 ### Divvy_report.pdf
 
 This is my analysis and conclusions presented in the form of a report. It's essentially a simplified version of the content in Divvy_Trip_Data_Analysis.ipynb.
